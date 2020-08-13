@@ -47,45 +47,18 @@ https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, tag=BoxJs.ne
 ```bash
 # Surge
 # 在 URL 后面增加: ?baseURL=http://boxjs.net
-# 完整示例：file:///Users/chavy/chavy.boxjs.html?baseURL=http://boxjs.net
+# 完整示例：
+file:///Users/chavy/chavy.boxjs.html?baseURL=http://boxjs.net
 
 # QuanX
 # 在 URL 后面增加：?baseURL=http://192.168.50.100:9999 
 # 注意：192.168.50.100 是 QuanX 的局域网地址
-# 完整示例：file:///Users/chavy/chavy.boxjs.html?baseURL=http://192.168.50.100:9999
+# 完整示例：
+file:///Users/chavy/chavy.boxjs.html?baseURL=http://192.168.50.100:9999
 
 这时你应该能看到 BoxJs 的页面了
 
 ```
-
-
-
-
-
-
-
-
-
-## 环境配置
-
-第一步：要在 PC 上运行 BoxJs，你需要具备以下的环境搭配
-
-* macOS + Surge for Mac v4.0.0 +
-* macOS + QuanX \(TestFight\)
-* windows + QuanX \(TestFight\)
-
-第二步：配置你的运行环境
-
-* Surge：安装 BoxJs 模块 \(仅限 macOS\)
-* QuanX：配置 HTTP Backend \(0.0.0.0:9999\)
-
-第三步：把 [chavy.boxjs.html](https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.html) 下载到本地
-
-第四步：双击 chavy.boxjs.html 
-
-### Surge for Mac \(v4.0.0 +\)
-
-### QuanX \(TestFight\)
 
 
 

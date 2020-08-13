@@ -2,9 +2,18 @@
 
 * [介绍](README.md)
 
+## 基础 <a id="base"></a>
+
+* [如何升级](base/upgrade.md)
+
 ## 进阶 <a id="advanced"></a>
 
 * [通过 PC 访问](advanced/pc.md)
+
+## awesome
+
+* [订阅](awesome/subscriptions.md)
+* [视频](awesome/shi-pin.md)
 
 ## 开发者文档 <a id="dev"></a>
 
