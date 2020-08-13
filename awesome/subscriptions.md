@@ -5,7 +5,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 # 订阅
 
 {% hint style="info" %}
-按作者仓库首字母排序
+排名不分先后
 {% endhint %}
 
 ### @lxk0301
