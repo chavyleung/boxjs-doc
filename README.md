@@ -44,7 +44,7 @@ https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.
 ```bash
 # Loon 商店版 (AppStore)
 # 安装路径: 配置 > 脚本 > 订阅脚本
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.conf
+https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.conf
 
 # Loon 测试版 (TestFight)
 # 安装路径: 配置 > 插件 > 插件
