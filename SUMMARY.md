@@ -5,6 +5,7 @@
 ## 基础 <a id="base"></a>
 
 * [如何升级](base/upgrade.md)
+* [一些技巧](base/yi-xie-ji-qiao.md)
 
 ## 进阶 <a id="advanced"></a>
 
