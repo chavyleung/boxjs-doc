@@ -13,7 +13,7 @@
 ## awesome
 
 * [订阅](awesome/subscriptions.md)
-* [视频](awesome/shi-pin.md)
+* [视频](awesome/videos.md)
 
 ## 开发者文档 <a id="dev"></a>
 
