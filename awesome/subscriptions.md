@@ -14,9 +14,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://gitee.com/lxk0301/scripts/raw/master/lxk0301.boxjs.json](https://gitee.com/lxk0301/scripts/raw/master/lxk0301.boxjs.json)
 
-📒 [作者仓库](https://gitee.com/lxk0301/)
+{% embed url="https://gitee.com/lxk0301/" %}
 
-[https://gitee.com/lxk0301/](https://gitee.com/lxk0301/)
+
 
 ### @vinewx
 
@@ -24,9 +24,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://ooxx.be/js/box.json](https://ooxx.be/js/box.json)
 
-📒 [作者仓库](https://ooxx.be/js)
+{% embed url="https://ooxx.be/js" %}
 
-[https://ooxx.be/js](https://ooxx.be/js)
+
 
 ### @NobyDa
 
@@ -34,9 +34,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa\_BoxJs.json](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
 
-📒 [作者仓库](https://github.com/NobyDa)
+{% embed url="https://github.com/NobyDa" %}
 
-[https://github.com/NobyDa](https://github.com/NobyDa)
+
 
 ### @Peng-YM
 
@@ -44,9 +44,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json)
 
-📒 [作者仓库](https://github.com/Peng-YM)
+{% embed url="https://github.com/Peng-YM" %}
 
-[https://github.com/Peng-YM](https://github.com/Peng-YM)
+
 
 ### @Sunert
 
@@ -54,9 +54,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json)
 
-📒 [作者仓库](https://github.com/Sunert)
+{% embed url="https://github.com/Sunert" %}
 
-[https://github.com/Sunert](https://github.com/Sunert)
+
 
 ### @chavyleung
 
@@ -64,9 +64,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json](https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json)
 
-📒 [作者仓库](https://github.com/chavyleung)
+{% embed url="https://github.com/chavyleung" %}
 
-[https://github.com/chavyleung](https://github.com/chavyleung)
+
 
 ### @chouchoui
 
@@ -74,9 +74,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json](https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json)
 
-📒 [作者仓库](https://github.com/chouchoui)
+{% embed url="https://github.com/chouchoui" %}
 
-[https://github.com/chouchoui](https://github.com/chouchoui)
+
 
 ### @evilbutcher
 
@@ -84,9 +84,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/evilbutcher/Quantumult\_X/master/evilbutcher.boxjs.json](https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json)
 
-📒 [作者仓库](https://github.com/evilbutcher)
+{% embed url="https://github.com/evilbutcher" %}
 
-[https://github.com/evilbutcher](https://github.com/evilbutcher)
+
 
 ### @lowking
 
@@ -94,9 +94,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json](https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json)
 
-📒 [作者仓库](https://github.com/lowking)
+{% embed url="https://github.com/lowking" %}
 
-[https://github.com/lowking](https://github.com/lowking)
+
 
 ### @songyangzz
 
@@ -104,9 +104,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json](https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json)
 
-📒 [作者仓库](https://github.com/songyangzz)
+{% embed url="https://github.com/songyangzz" %}
 
-[https://github.com/songyangzz](https://github.com/songyangzz)
+
 
 ### @toulanboy
 
@@ -114,9 +114,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json](https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json)
 
-📒 [作者仓库](https://github.com/toulanboy)
+{% embed url="https://github.com/toulanboy" %}
 
-[https://github.com/toulanboy](https://github.com/toulanboy)
+
 
 ### @zZPiglet
 
@@ -124,9 +124,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 [https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json](https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json)
 
-📒 [作者仓库](https://github.com/zZPiglet)
+{% embed url="https://github.com/zZPiglet" %}
 
-[https://github.com/zZPiglet](https://github.com/zZPiglet)
+
 
 
 
