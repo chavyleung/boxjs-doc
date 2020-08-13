@@ -15,7 +15,7 @@
 
 * [订阅](awesome/subscriptions.md)
 * [视频](awesome/videos.md)
-* [图标](awesome/tu-biao.md)
+* [图标](awesome/icons.md)
 
 ## 开发者文档 <a id="dev"></a>
 
