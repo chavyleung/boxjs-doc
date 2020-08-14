@@ -15,7 +15,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 # Surge 商店版 (AppStore)
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 
-# Surge 测试版 (TestFight)
+# Surge 测试版 (TestFlight)
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
 
 ```
@@ -30,7 +30,7 @@ https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.
 # QuanX 商店版 (AppStore)
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf
 
-# QuanX 测试版 (TestFight)
+# QuanX 测试版 (TestFlight)
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.tf.conf
 
 ```
@@ -46,7 +46,7 @@ https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.
 # 安装路径: 配置 > 脚本 > 订阅脚本
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.conf
 
-# Loon 测试版 (TestFight)
+# Loon 测试版 (TestFlight)
 # 安装路径: 配置 > 插件 > 插件
 https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
 
