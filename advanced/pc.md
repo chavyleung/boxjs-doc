@@ -48,15 +48,15 @@ https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, tag=BoxJs.ne
 # Surge
 # 在 URL 后面增加: ?baseURL=http://boxjs.net
 # 完整示例：
-file:///Users/chavy/chavy.boxjs.html?baseURL=http://boxjs.net
+ ​ file:///Users/chavy/chavy.boxjs.html?baseURL=http://boxjs.net
 
 # QuanX
 # 在 URL 后面增加：?baseURL=http://192.168.50.100:9999 
 # 注意：192.168.50.100 是 QuanX 的局域网地址
 # 完整示例：
-file:///Users/chavy/chavy.boxjs.html?baseURL=http://192.168.50.100:9999
+ ​ file:///Users/chavy/chavy.boxjs.html?baseURL=http://192.168.50.100:9999
 
-这时你应该能看到 BoxJs 的页面了
+# 这时你应该能看到 BoxJs 的页面了
 
 ```
 
