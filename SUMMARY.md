@@ -16,6 +16,7 @@
 * [订阅](awesome/subscriptions.md)
 * [视频](awesome/videos.md)
 * [图标](awesome/icons.md)
+* [壁纸](awesome/wallpapers.md)
 
 ## 开发者文档 <a id="dev"></a>
 
