@@ -128,5 +128,13 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 
 
+### @id77
+
+[https://raw.githubusercontent.com/id77/QuantumultX/master/box.json](https://raw.githubusercontent.com/id77/QuantumultX/master/box.json)
+
+{% embed url="https://github.com/id77/QuantumultX/tree/master" %}
+
+
+
 
 
