@@ -134,6 +134,14 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 {% embed url="https://github.com/id77/QuantumultX/tree/master" %}
 
+### 
+
+### @dompling
+
+[https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json](https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json)
+
+{% embed url="https://github.com/dompling" %}
+
 
 
 
