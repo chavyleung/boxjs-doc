@@ -10,11 +10,11 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @lxk0301
 
-📝 [订阅地址](https://raw.githubusercontent.com/lxk0301/scripts/master/lxk0301.boxjs.json)
+📝 [订阅地址](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/lxk0301.boxjs.json)
 
-[https://raw.githubusercontent.com/lxk0301/scripts/master/lxk0301.boxjs.json](https://raw.githubusercontent.com/lxk0301/scripts/master/lxk0301.boxjs.json)
+[https://raw.githubusercontent.com/lxk0301/jd\_scripts/master/lxk0301.boxjs.json](https://raw.githubusercontent.com/lxk0301/jd_scripts/master/lxk0301.boxjs.json)
 
-{% embed url="https://github.com/lxk0301/scripts" %}
+{% embed url="https://github.com/lxk0301/jd\_scripts" %}
 
 
 
