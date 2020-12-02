@@ -38,7 +38,7 @@ https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, tag=BoxJs.ne
 4. 在 iOS 的系统设置里找到自己的局域网地址，如：192.168.50.100
 5. 尝试访局域网地址：[http://192.168.50.100:9999](http://192.168.50.100:9999) 如果能进入 BoxJs 页面，则证明配置成功！
 
-### Loon
+#### Loon
 
 > 直接设置网络共享的 HTTP 端口即可
 
