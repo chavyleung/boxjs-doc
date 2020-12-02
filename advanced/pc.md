@@ -40,7 +40,7 @@ https://gitee.com/chavyleung/scripts/raw/master/box/chavy.boxjs.js, tag=BoxJs.ne
 
 #### Loon
 
-> 直接设置网络共享的 HTTP 端口即可
+> 直接设置网络共享的 HTTP 端口即可，然后通过局域网 IP 加端口的形式访问。如：http://192.x.x.x:7228
 
 ![](../.gitbook/assets/image.png)
 
