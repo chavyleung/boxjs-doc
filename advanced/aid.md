@@ -18,6 +18,7 @@ $persistentStore.write('', 'chavy_boxjs_globalBaks')
 $done()
 
 # QuanX
+# 先把 QX 的示例代码全部删掉，再粘贴下面两行代码！
 $prefs.setValueForKey('', 'chavy_boxjs_globalBaks')
 $done()
 ```
@@ -38,6 +39,7 @@ $persistentStore.write('', 'chavy_boxjs_app_subCaches')
 $done()
 
 # QuanX
+# 先把 QX 的示例代码全部删掉，再粘贴下面两行代码！
 $prefs.setValueForKey('', 'chavy_boxjs_app_subCaches')
 $done()
 ```
