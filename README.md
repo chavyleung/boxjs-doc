@@ -13,10 +13,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 # 安装路径: 
  ​ 首页 > 模块 > 安装新模块
 
-# Surge 商店版 (AppStore)
+# BoxJs 稳定版
   https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 
-# Surge 测试版 (TestFlight)
+# BoxJs 测试版
   https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
 
 ```
@@ -29,10 +29,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 # 安装路径: 
  ​ 风车 > 重写 > 引用
 
-# QuanX 商店版 (AppStore)
+# BoxJs 稳定版
   https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf
 
-# QuanX 测试版 (TestFlight)
+# BoxJs 测试版
   https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.tf.conf
 
 ```
@@ -42,16 +42,13 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 
 {% code title="Loon Plugin" %}
 ```bash
-# Loon 商店版 (AppStore)
 # 安装路径: 
  ​ 配置 > 插件 > 插件
-# 订阅地址
+ 
+# BoxJs 稳定版
  ​ https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.plugin
 
-# Loon 测试版 (TestFlight)
-# 安装路径: 
- ​ 配置 > 插件 > 插件
-# 订阅地址：
+# BoxJs 测试版
   https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
 
 ```

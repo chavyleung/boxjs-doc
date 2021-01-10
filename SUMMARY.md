@@ -9,7 +9,6 @@
 
 ## 进阶 <a id="advanced"></a>
 
-* [通过 PC 访问](advanced/pc.md)
 * [急救](advanced/aid.md)
 
 ## awesome
@@ -18,8 +17,4 @@
 * [视频](awesome/videos.md)
 * [图标](awesome/icons.md)
 * [壁纸](awesome/wallpapers.md)
-
-## 开发者文档 <a id="dev"></a>
-
-* [环境](dev/env.md)
 
