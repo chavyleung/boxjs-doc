@@ -14,10 +14,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
  ​ 首页 > 模块 > 安装新模块
 
 # BoxJs 稳定版
-  https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 
 # BoxJs 测试版
-  https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
 
 ```
 {% endcode %}
@@ -30,10 +30,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
  ​ 风车 > 重写 > 引用
 
 # BoxJs 稳定版
-  https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.conf
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
 
 # BoxJs 测试版
-  https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.quanx.tf.conf
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.tf.conf
 
 ```
 {% endcode %}
@@ -46,10 +46,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
  ​ 配置 > 插件 > 插件
  
 # BoxJs 稳定版
- ​ https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.plugin
+ ​ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
 
 # BoxJs 测试版
-  https://gitee.com/chavyleung/scripts/raw/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
 
 ```
 {% endcode %}
