@@ -24,6 +24,32 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 
 ### QuanX
 
+> 2021.3.25 发现通过 Rewrite 的方式访问 BoxJs 会导致无法删除备份, 建议改用 HTTP Backend
+
+> HTTP Backend 需要通过 IP+端口 的形式访问，这样觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend \(进阶\)\` 实现域名访问
+
+{% tabs %}
+{% tab title="HTTP Backend \(推荐\)" %}
+{% code title="HTTP Backend" %}
+```bash
+# 安装路径: 
+ ​ 风车 > 工具&分析> HTTP Backend > 添加
+
+# 标签: boxjs
+# 处理请求的路径: ^/
+
+# 脚本路径 (稳定版)
+https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js
+# 脚本路径 (测试版)
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
+
+# 访问地址:
+http://127.0.0.1:9999
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Rewrite" %}
 {% code title="QuanX Rewrite" %}
 ```bash
 # 安装路径: 
@@ -37,6 +63,35 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 
 ```
 {% endcode %}
+{% endtab %}
+
+{% tab title="Rewrite + HTTP Backend \(进阶\)" %}
+```bash
+# 第一步
+同时配置 HTTP Backend 和 Rewrite 
+
+# 第二步
+# http://boxjs.com
+# http://boxjs.net 
+# http://127.0.0.1:9999
+进入 BoxJs > 应用(底栏) > 内置应用 > 偏好设置
+
+# 第三步
+在 `HTTP Backend (Quantumult X)` 中填入 HTTP Backend 的地址
+如: http://127.0.0.1:9999
+
+# 然后就可以通过`域名`的方式访问 BoxJs 了
+
+# 原理
+通过 Rewrite 可以实现域名的形式访问 BoxJs
+通过 偏好设置 可以让 BoxJs 的数据请求走 HTTP Backend
+
+# 感谢 https://github.com/chouchoui PR
+# 详见 https://github.com/chavyleung/scripts/pull/327
+
+```
+{% endtab %}
+{% endtabs %}
 
 ### Loon
 
