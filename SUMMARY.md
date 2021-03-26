@@ -10,6 +10,7 @@
 ## 进阶 <a id="advanced"></a>
 
 * [急救](advanced/aid.md)
+* [通过 PC 访问](advanced/pc.md)
 
 ## awesome
 
