@@ -45,6 +45,11 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
 
 # 访问地址:
 http://127.0.0.1:9999
+
+# 注意事项
+注意配置 HTTP Backend 的地址为 0.0.0.0 端口为 9999
+配置完成后确保打开了 HTTP Backend 的开关
+然后 全部更新 > 重启代理
 ```
 {% endcode %}
 {% endtab %}
@@ -69,6 +74,8 @@ http://127.0.0.1:9999
 ```bash
 # 第一步
 同时配置 HTTP Backend 和 Rewrite 
+全部更新 > 重启代理
+配置后应该通过 http://127.0.0.1:9999 访问下页面后是否正常
 
 # 第二步
 # http://boxjs.com
