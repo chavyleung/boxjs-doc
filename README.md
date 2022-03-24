@@ -1,5 +1,5 @@
 ---
-description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
+description: BoxJs 是一款运行在 Surge、QuanX、Loon、 Stash环境下的脚本！
 ---
 
 # 介绍
