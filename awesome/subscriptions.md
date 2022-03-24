@@ -10,18 +10,17 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @lxk0301
 
-📝 [订阅地址](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json)
+:pencil: [订阅地址](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json)
 
-[https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json
-)
+[https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json](https://jdsharedresourcescdn.azureedge.net/jdresource/lxk0301.boxjs.json)
 
-{% embed url="https://gitee.com/lxk0301/jd\_docker" %}
-
+{% embed url="https://gitee.com/lxk0301/jd_docker" %}
 
 
-### @vinewx
 
-📝 [订阅地址](https://ooxx.be/js/box.json)
+### @AsVow
+
+:pencil: [订阅地址](https://ooxx.be/js/box.json)
 
 [https://ooxx.be/js/box.json](https://ooxx.be/js/box.json)
 
@@ -31,9 +30,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @NobyDa
 
-📝 [订阅地址](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa\_BoxJs.json)
 
-[https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa\_BoxJs.json](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
+[https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa\_BoxJs.json](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa\_BoxJs.json)
 
 {% embed url="https://github.com/NobyDa" %}
 
@@ -41,7 +40,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @Peng-YM
 
-📝 [订阅地址](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json)
 
 [https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json)
 
@@ -51,7 +50,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @Sunert
 
-📝 [订阅地址](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json)
 
 [https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json](https://raw.githubusercontent.com/Sunert/Scripts/master/Task/sunert.boxjs.json)
 
@@ -61,7 +60,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @chavyleung
 
-📝 [订阅地址](https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json)
 
 [https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json](https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json)
 
@@ -71,7 +70,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @chouchoui
 
-📝 [订阅地址](https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json)
 
 [https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json](https://raw.githubusercontent.com/chouchoui/QuanX/master/vei.boxjs.json)
 
@@ -81,9 +80,9 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @evilbutcher
 
-📝 [订阅地址](https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/evilbutcher/Quantumult\_X/master/evilbutcher.boxjs.json)
 
-[https://raw.githubusercontent.com/evilbutcher/Quantumult\_X/master/evilbutcher.boxjs.json](https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json)
+[https://raw.githubusercontent.com/evilbutcher/Quantumult\_X/master/evilbutcher.boxjs.json](https://raw.githubusercontent.com/evilbutcher/Quantumult\_X/master/evilbutcher.boxjs.json)
 
 {% embed url="https://github.com/evilbutcher" %}
 
@@ -91,7 +90,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @lowking
 
-📝[ 订阅地址](https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json)
+:pencil:[ 订阅地址](https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json)
 
 [https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json](https://raw.githubusercontent.com/lowking/Scripts/master/lowking.boxjs.json)
 
@@ -101,7 +100,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @songyangzz
 
-📝 [订阅地址](https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json)
 
 [https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json](https://raw.githubusercontent.com/songyangzz/QuantumultX/master/syzzzf.box.json)
 
@@ -111,7 +110,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @toulanboy
 
-📝 [订阅地址](https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json)
 
 [https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json](https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json)
 
@@ -121,7 +120,7 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 ### @zZPiglet
 
-📝 [订阅地址](https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json)
+:pencil: [订阅地址](https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json)
 
 [https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json](https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json)
 
@@ -135,15 +134,13 @@ description: 这里罗列了一些非常棒的 BoxJs 订阅，感谢各位大佬
 
 {% embed url="https://github.com/id77/QuantumultX/tree/master" %}
 
-### 
+###
 
 ### @dompling
 
 [https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json](https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json)
 
 {% embed url="https://github.com/dompling" %}
-
-
 
 
 

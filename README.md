@@ -24,12 +24,12 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon 环境下的脚本！
 
 ### QuanX
 
-> 2021.3.25 发现通过 Rewrite 的方式访问 BoxJs 会导致无法删除备份, 建议改用 HTTP Backend
+> 2021.3.25 发现通过 Rewrite 的方式访问 BoxJs 会导致无法删除备份, 建议改用 HTTP Backend&#x20;
 
-> HTTP Backend 需要通过 IP+端口 的形式访问，如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend \(进阶\)\` 实现域名访问
+> HTTP Backend 需要通过 IP+端口 的形式访问，如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
 
 {% tabs %}
-{% tab title="HTTP Backend \(推荐\)" %}
+{% tab title="HTTP Backend (推荐)" %}
 {% code title="HTTP Backend" %}
 ```bash
 # 安装路径: 
@@ -70,7 +70,7 @@ http://127.0.0.1:9999
 {% endcode %}
 {% endtab %}
 
-{% tab title="Rewrite + HTTP Backend \(进阶\)" %}
+{% tab title="Rewrite + HTTP Backend (进阶)" %}
 ```bash
 # 第一步
 同时配置 HTTP Backend 和 Rewrite 
@@ -135,12 +135,27 @@ http://127.0.0.1:9999
 {% endcode %}
 
 {% hint style="warning" %}
- 安装完成后，请重启一次代理 
+&#x20;安装完成后，请重启一次代理&#x20;
 {% endhint %}
+
+### Stash
+
+{% code title="Stash stoverride" %}
+```bash
+# 安装路径
+  首页 > 覆写 > 安装覆写
+  
+​# BoxJs 稳定版
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride
+
+# BoxJs 测试版
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride
+
+```
+{% endcode %}
 
 ## 访问
 
 商店版: [http://boxjs.com](http://boxjs.com)
 
 测试版: [http://boxjs.net](http://boxjs.net)
-
