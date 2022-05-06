@@ -118,6 +118,24 @@ http://127.0.0.1:9999
 
 ### Shadowrocket
 
+{% tabs %}
+{% tab title="Module (推荐)" %}
+{% code title="Shadowrocket Module" %}
+```bash
+# 安装路径: 
+ ​ 配置 > 模块 > 右上角加号
+
+# BoxJs 稳定版
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+
+# BoxJs 测试版
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
+
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Rewrite" %}
 {% code title="Shadowrocket Rewrite" %}
 ```bash
 # 安装路径
@@ -133,9 +151,11 @@ http://127.0.0.1:9999
 
 ```
 {% endcode %}
+{% endtab %}
+{% endtabs %}
 
 {% hint style="warning" %}
-&#x20;安装完成后，请重启一次代理&#x20;
+&#x20;安装完成后，最好重启一次代理&#x20;
 {% endhint %}
 
 ### Stash
