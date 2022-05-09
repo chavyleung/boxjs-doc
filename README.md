@@ -36,15 +36,15 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 # 处理请求的路径: ^/
 
 # 脚本路径
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
 
 # 访问地址:
-http://127.0.0.1:9999
+  http://127.0.0.1:9999
 
 # 注意事项
-注意配置 HTTP Backend 的地址为 0.0.0.0 端口为 9999
-配置完成后确保打开了 HTTP Backend 的开关
-然后 全部更新 > 重启代理
+  注意配置 HTTP Backend 的地址为 0.0.0.0 端口为 9999
+  配置完成后确保打开了 HTTP Backend 的开关
+  然后 全部更新 > 重启代理
 ```
 {% endcode %}
 {% endtab %}
@@ -118,6 +118,8 @@ http://127.0.0.1:9999
 # 模块地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
 
+# 感谢
+  @JOJOforshaun PR
 ```
 {% endcode %}
 {% endtab %}
