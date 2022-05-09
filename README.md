@@ -13,20 +13,17 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 # 安装路径: 
  ​ 首页 > 模块 > 安装新模块
 
-# BoxJs 稳定版
+# 模块地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
-
-# BoxJs 测试版
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
 
 ```
 {% endcode %}
 
 ### QuanX
 
-> 2021.3.25 发现通过 Rewrite 的方式访问 BoxJs 会导致无法删除备份, 建议改用 HTTP Backend&#x20;
-
-> HTTP Backend 需要通过 IP+端口 的形式访问，如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
+> HTTP Backend 需要通过 IP+端口 的形式访问
+>
+> 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
 
 {% tabs %}
 {% tab title="HTTP Backend (推荐)" %}
@@ -38,9 +35,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 # 标签: boxjs
 # 处理请求的路径: ^/
 
-# 脚本路径 (稳定版)
-https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js
-# 脚本路径 (测试版)
+# 脚本路径
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
 
 # 访问地址:
@@ -60,12 +55,9 @@ http://127.0.0.1:9999
 # 安装路径: 
  ​ 风车 > 重写 > 引用
 
-# BoxJs 稳定版
+# 重写路径: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
-
-# BoxJs 测试版
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.tf.conf
-
+  
 ```
 {% endcode %}
 {% endtab %}
@@ -95,23 +87,21 @@ http://127.0.0.1:9999
 
 # 感谢 https://github.com/chouchoui PR
 # 详见 https://github.com/chavyleung/scripts/pull/327
-
 ```
 {% endtab %}
 {% endtabs %}
 
 ### Loon
 
+如果你安装了 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装插件](loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin)
+
 {% code title="Loon Plugin" %}
 ```bash
 # 安装路径: 
  ​ 配置 > 插件 > 插件
  
-# BoxJs 稳定版
- ​ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
-
-# BoxJs 测试版
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.tf.plugin
+# 插件地址: 
+ ​ https//raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
 
 ```
 {% endcode %}
@@ -125,11 +115,8 @@ http://127.0.0.1:9999
 # 安装路径: 
  ​ 配置 > 模块 > 右上角加号
 
-# BoxJs 稳定版
+# 模块地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
-
-# BoxJs 测试版
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.tf.sgmodule
 
 ```
 {% endcode %}
@@ -138,44 +125,37 @@ http://127.0.0.1:9999
 {% tab title="Rewrite" %}
 {% code title="Shadowrocket Rewrite" %}
 ```bash
-# 安装路径
+# 安装路径:
   配置 > 点击使用中的配置文件 > 编辑纯文本
   
 # 在 [Script] 标签下增加以下内容，如果没有 [Script]，可自行增加
+
+# 重写地址:
+  Rewrite: BoxJs = type=http-request,pattern=https?:\/\/boxjs\.(com|net),script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js, requires-body=true, timeout=120
   
-# BoxJs 稳定版
-  Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.com,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, requires-body=true, timeout=120
-
-# BoxJs 测试版
-  Rewrite: BoxJs = type=http-request,pattern=^https?://boxjs.net,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js, requires-body=true, timeout=120
-
 ```
 {% endcode %}
 {% endtab %}
 {% endtabs %}
 
 {% hint style="warning" %}
-&#x20;安装完成后，最好重启一次代理&#x20;
+安装完成后，最好重启一次代理
 {% endhint %}
 
 ### Stash
 
 {% code title="Stash stoverride" %}
 ```bash
-# 安装路径
+# 安装路径: 
   首页 > 覆写 > 安装覆写
   
-​# BoxJs 稳定版
+​# 覆写地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride
-
-# BoxJs 测试版
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.tf.stoverride
 
 ```
 {% endcode %}
 
 ## 访问
 
-商店版: [http://boxjs.com](http://boxjs.com)
-
-测试版: [http://boxjs.net](http://boxjs.net)
+1. [http://boxjs.com](http://boxjs.com)
+2. [http://boxjs.net](http://boxjs.net)
