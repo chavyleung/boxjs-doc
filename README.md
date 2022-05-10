@@ -21,29 +21,12 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 
 ### QuanX
 
+> HTTP Backend 需要通过 IP+端口 的形式访问
+>
+> 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
+
 {% tabs %}
-{% tab title="Rewrite (简单)" %}
-如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接: [一键安装](https://quantumult-x/add-resource?remote-resource=%7B%22rewrite\_remote%22%3A%20%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2C%20tag%3Dboxjs%22%5D%7D)
-
-{% code title="QuanX Rewrite" %}
-```bash
-# 安装路径: 
- ​ 风车 > 重写 > 引用
-
-# 重写路径: 
-  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
-  
-```
-{% endcode %}
-{% endtab %}
-
-{% tab title="HTTP Backend" %}
-HTTP Backend 需要通过 IP+端口 的形式访问
-
-如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
-
-
-
+{% tab title="HTTP Backend (推荐)" %}
 {% code title="HTTP Backend" %}
 ```bash
 # 安装路径: 
@@ -62,6 +45,19 @@ HTTP Backend 需要通过 IP+端口 的形式访问
   注意配置 HTTP Backend 的地址为 0.0.0.0 端口为 9999
   配置完成后确保打开了 HTTP Backend 的开关
   然后 全部更新 > 重启代理
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Rewrite" %}
+{% code title="QuanX Rewrite" %}
+```bash
+# 安装路径: 
+ ​ 风车 > 重写 > 引用
+
+# 重写路径: 
+  https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
+  
 ```
 {% endcode %}
 {% endtab %}
@@ -97,7 +93,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ### Loon
 
-如果你使用的是 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装](loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin)
+如果你安装了 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装插件](loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin)
 
 {% code title="Loon Plugin" %}
 ```bash
