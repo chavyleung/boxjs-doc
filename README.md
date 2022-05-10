@@ -15,6 +15,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 
 # 模块地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+
 ```
 {% endcode %}
 
@@ -22,17 +23,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 
 {% tabs %}
 {% tab title="Rewrite (简单)" %}
-#### 一键安装
-
-> 如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接复制以下链接并在 `Safari` 中打开
-
-```
-quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D
-```
-
-
-
-#### 手动安装
+如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接: [一键安装](quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D)
 
 {% code title="QuanX Rewrite" %}
 ```bash
@@ -50,6 +41,8 @@ quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22htt
 HTTP Backend 需要通过 IP+端口 的形式访问
 
 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
+
+
 
 {% code title="HTTP Backend" %}
 ```bash
@@ -113,6 +106,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
  
 # 插件地址: 
  ​ https//raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+
 ```
 {% endcode %}
 
@@ -163,6 +157,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
   
 ​# 覆写地址: 
   https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.stash.stoverride
+
 ```
 {% endcode %}
 
