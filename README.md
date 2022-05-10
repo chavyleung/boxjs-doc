@@ -24,7 +24,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 {% tab title="Rewrite (简单)" %}
 #### 一键安装
 
-> 如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接复制以下链接并在 [`Safari`](https://quantumult-x/add-resource?remote-resource=%7B%22rewrite\_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D) 中打开
+> 如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接复制以下链接并在 [`Safari`](quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D) 中打开
 
 ```
 quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D
