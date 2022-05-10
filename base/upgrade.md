@@ -16,8 +16,6 @@ description: 建议使用 APP 内提供的一键更新功能
 
 ### QuanX
 
-如果你使用的是 **v1.0.29 (670)** 及以上版本，你可以直接: [一键更新](https://quantumult-x/add-resource?remote-resource=%7B%22rewrite\_remote%22%3A%20%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2C%20tag%3Dboxjs%22%5D%7D)
-
 ```bash
 长按风车 > 刷新 (左下角) > 重启代理 (VPN)
 
