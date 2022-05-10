@@ -18,7 +18,7 @@ description: 建议使用 APP 内提供的一键更新功能
 
 #### 一键升级
 
-如果你使用的是 **v1.0.29 (670)** 及以上版本: [一键升级](https://api.boxjs.app/quanx-install)
+如果你使用的是 **v1.0.29 (670)** 及以上版本: [一键升级](https://api.boxjs.app/quanx-update)
 
 
 

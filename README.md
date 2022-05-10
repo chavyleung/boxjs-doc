@@ -100,7 +100,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ### Loon
 
-如果你使用的是 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装](loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin)
+如果你使用的是 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装](https://api.boxjs.app/loone-install)
 
 {% code title="Loon Plugin" %}
 ```bash
