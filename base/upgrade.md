@@ -20,8 +20,6 @@ description: 建议使用 APP 内提供的一键更新功能
 
 如果你使用的是 **v1.0.29 (670)** 及以上版本: [一键升级](https://api.boxjs.app/quanx-update)
 
-
-
 #### 手动升级
 
 ```bash
@@ -32,6 +30,12 @@ description: 建议使用 APP 内提供的一键更新功能
 ```
 
 ### Loon
+
+#### 一键升级
+
+如果你使用的是 **v2.1.19 (386)** 及以上的版本，你可以直接: [一键升级](https://api.boxjs.app/loon-update)
+
+#### 手动升级
 
 ```bash
 配置 > 插件 > 刷新 (右上角) > 重启代理 (VPN)
