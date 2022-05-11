@@ -47,10 +47,6 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
 
-{% hint style="info" %}
-添加 Backend 时不要填 \`主机名\`
-{% endhint %}
-
 {% code title="HTTP Backend" %}
 ```bash
 # 安装路径: 
