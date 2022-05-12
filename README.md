@@ -20,8 +20,10 @@ description: BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket
 
 ### Quantumult X
 
+> 在最新的版本，推荐只使用 **Rewrite** 安装，无特殊需要无必要配置 **HTTP Backend**。
+
 {% tabs %}
-{% tab title="Rewrite (简单)" %}
+{% tab title="Rewrite (推荐)" %}
 **一键安装**
 
 如果你使用的是 **v1.0.29 (670)** 及以上版本: [一键安装](https://api.boxjs.app/quanx-install)
