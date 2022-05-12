@@ -14,7 +14,7 @@ description: 建议使用 APP 内提供的一键更新功能
 首页 > Surge 图标 (左上角) > 外部资源 > 全部更新
 ```
 
-### QuanX
+### Quantumult X
 
 #### 一键升级
 

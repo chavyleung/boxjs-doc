@@ -1,5 +1,5 @@
 ---
-description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stash 环境下的脚本！
+description: BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本！
 ---
 
 # 介绍
@@ -18,7 +18,7 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 ```
 {% endcode %}
 
-### QuanX
+### Quantumult X
 
 {% tabs %}
 {% tab title="Rewrite (简单)" %}
@@ -46,6 +46,10 @@ description: BoxJs 是一款运行在 Surge、QuanX、Loon、Shadowrocket、Stas
 HTTP Backend 需要通过 IP+端口 的形式访问
 
 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
+
+{% hint style="info" %}
+添加 Backend 时不要填 \`主机名\`
+{% endhint %}
 
 {% code title="HTTP Backend" %}
 ```bash
