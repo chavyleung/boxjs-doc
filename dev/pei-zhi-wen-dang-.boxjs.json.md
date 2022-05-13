@@ -8,11 +8,27 @@ description: 本文介绍如何配置 BoxJs 订阅文件
 
 待完善
 
-## 场景介绍
+## 场景介绍 <a href="#scenes" id="scenes"></a>
 
-### 安装事件 (onInstall)
 
-如果希望用户在添加 BoxJs 后，自动安装重写 (.sgmodule, .snippet……)
+
+
+
+### 安装事件 (onInstall) <a href="#scenes-oninstall" id="scenes-oninstall"></a>
+
+如果希望用户在添加 BoxJs 后，自动安装重写 (.plugin, .snippet, ...)
+
+{% hint style="info" %}
+要求:&#x20;
+
+BoxJs: v0.12.0
+
+Loon: v2.1.19 (386)
+
+Quantumult X: v1.0.29 (670)
+{% endhint %}
+
+
 
 **实现原理**
 
@@ -33,8 +49,8 @@ loon://update?sub=all
     "message": "本订阅包含重写资源, 是否需要自动安装?",
     "install": {
       "Surge": "",
-      "QuanX": "",
-      "Loon": "loon://update?sub=all",
+      "QuanX": "quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D",
+      "Loon": "loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
       "Shadowrocket": "",
       "Stash": ""
     }
