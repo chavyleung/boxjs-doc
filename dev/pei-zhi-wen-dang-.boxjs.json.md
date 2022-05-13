@@ -33,8 +33,8 @@ loon://update?sub=all
     "message": "本订阅包含重写资源, 是否需要自动安装?",
     "install": {
       "Surge": "",
-      "QuanX": "",
-      "Loon": "loon://update?sub=all",
+      "QuanX": "quantumult-x:///add-resource?remote-resource=%7B%22rewrite_remote%22%3A%5B%22https%3A%2F%2Fgithub.com%2Fchavyleung%2Fscripts%2Fraw%2Fmaster%2Fbox%2Frewrite%2Fboxjs.rewrite.quanx.conf%2Ctag%3Dboxjs%22%5D%7D",
+      "Loon": "loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
       "Shadowrocket": "",
       "Stash": ""
     }
