@@ -44,7 +44,7 @@ description: BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket
 {% endcode %}
 {% endtab %}
 
-{% tab title="HTTP Backend" %}
+{% tab title="HTTP Backend (不建议)" %}
 HTTP Backend 需要通过 IP+端口 的形式访问
 
 如果你觉得这样不够优雅，可参考 \`Rewrite + HTTP Backend (进阶)\` 实现域名访问
@@ -75,7 +75,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 {% endcode %}
 {% endtab %}
 
-{% tab title="Rewrite + HTTP Backend (进阶)" %}
+{% tab title="Rewrite + HTTP Backend ( 新手不建议)" %}
 ```bash
 # 第一步
 同时配置 HTTP Backend 和 Rewrite 
