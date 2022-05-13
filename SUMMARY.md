@@ -15,6 +15,7 @@
 ## 开发文档 <a href="#dev" id="dev"></a>
 
 * [配置文档 (\*.boxjs.json)](dev/pei-zhi-wen-dang-.boxjs.json.md)
+* [URL Scheme](dev/url-scheme.md)
 
 ## awesome
 
