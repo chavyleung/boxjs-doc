@@ -26,19 +26,13 @@ https://api.boxjs.app/loon/update?sub=all
 
 ```
 
-#### ****
-
 #### **Surge:**&#x20;
 
 [https://manual.nssurge.com/others/url-scheme.html](https://manual.nssurge.com/others/url-scheme.html)
 
-****
-
 #### **Quantumult X:**&#x20;
 
 [https://github.com/crossutility/Quantumult-X/blob/master/url-scheme.md](https://github.com/crossutility/Quantumult-X/blob/master/url-scheme.md)
-
-****
 
 #### **Loon:**
 
