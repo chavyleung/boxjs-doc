@@ -12,7 +12,7 @@ description: 本文介绍如何配置 BoxJs 订阅文件
 
 ### 安装事件 (onInstall) <a href="#scenes-oninstall" id="scenes-oninstall"></a>
 
-如果希望用户在添加 BoxJs 后，自动安装重写 (.sgmodule, .snippet……)
+如果希望用户在添加 BoxJs 后，自动安装重写 (.plugin, .snippet, ...)
 
 **实现原理**
 
