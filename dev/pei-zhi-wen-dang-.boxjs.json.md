@@ -19,7 +19,7 @@ description: 本文介绍如何配置 BoxJs 订阅文件
 如果希望用户在添加 BoxJs 后，自动安装重写 (.plugin, .snippet, ...)
 
 {% hint style="info" %}
-要求:&#x20;
+**要求:**&#x20;
 
 BoxJs: v0.12.0
 
