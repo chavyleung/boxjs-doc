@@ -170,4 +170,5 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ## 访问
 
-[http://boxjs.com](http://boxjs.com)
+1. [http://boxjs.com](http://boxjs.com)
+2. [http://boxjs.net](http://boxjs.net)
