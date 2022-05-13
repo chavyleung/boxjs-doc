@@ -10,13 +10,9 @@ description: 本文介绍如何配置 BoxJs 订阅文件
 
 ## 场景介绍 <a href="#scenes" id="scenes"></a>
 
-
-
-
-
 ### 安装事件 (onInstall) <a href="#scenes-oninstall" id="scenes-oninstall"></a>
 
-如果希望用户在添加 BoxJs 后，自动安装重写 (.plugin, .snippet, ...)
+如果希望用户在添加 BoxJs 订阅后，自动安装重写 (.plugin, .snippet, ...)
 
 {% hint style="info" %}
 **要求:**&#x20;
