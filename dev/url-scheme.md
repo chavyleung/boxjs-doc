@@ -8,7 +8,7 @@ description: 收集已经知几个 App 的 URL Scheme
 
 由于 URL Scheme 不能直接在部分 App (Telegram 等) 以超链接的形式显示
 
-这里提供几个 App 的自动重定向接口，欢迎使用：
+我们提供几个的自动重定向 (302) 接口，欢迎使用：
 
 ```properties
 # 前缀:
@@ -17,6 +17,8 @@ https://api.boxjs.app/quanx/…
 https://api.boxjs.app/surge/…
 
 # 实例:
+loon://update?sub=all
+# 转换为: 
 https://api.boxjs.app/loon/update?sub=all
 
 # 其他同理...
