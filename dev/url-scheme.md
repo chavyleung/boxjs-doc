@@ -15,6 +15,7 @@ description: 收集已经知几个 App 的 URL Scheme
 https://api.boxjs.app/loon/…
 https://api.boxjs.app/quanx/…
 https://api.boxjs.app/surge/…
+https://api.boxjs.app/shadowrocket/…
 https://api.boxjs.app/stash/…
 https://api.boxjs.app/clash/…
 
@@ -44,6 +45,15 @@ loon://import?plugin=https://raw.githubusercontent.com/chavyleung/scripts/master
 
 # 更新资源
 loon://update?sub=all
+
+```
+
+#### Shadowrocket
+
+```properties
+# 安装 & 更新插件
+shadowrocket://install?module=https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
+
 ```
 
 #### Stash

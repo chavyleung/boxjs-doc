@@ -120,6 +120,8 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ### Shadowrocket
 
+如果你使用的是 **v2.2.8 (1658)** 及以上的版本，你可以直接: [一键安装](http://api.boxjs.app/shadowrocket-install)
+
 {% tabs %}
 {% tab title="Module (推荐)" %}
 {% code title="Shadowrocket Module" %}
@@ -170,5 +172,4 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ## 访问
 
-1. [http://boxjs.com](http://boxjs.com)
-2. [http://boxjs.net](http://boxjs.net)
+[http://boxjs.com](http://boxjs.com)

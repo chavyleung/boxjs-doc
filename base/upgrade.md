@@ -43,6 +43,8 @@ description: 建议使用 APP 内提供的一键更新功能
 
 ### Shadowrocket
 
+如果你使用的是 **v2.2.8 (1658)** 及以上的版本，你可以直接: [一键升级](http://api.boxjs.app/shadowrocket-update)
+
 ```bash
 # 使用模块安装的用户
 配置 > 模块 > 更新模块（或者找到Boxjs模块右划，点击更新）
