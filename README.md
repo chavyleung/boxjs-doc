@@ -106,7 +106,11 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ### Loon
 
+#### 一键安装
+
 如果你使用的是 **v2.1.19 (385)** 及以上的版本，你可以直接: [一键安装](https://api.boxjs.app/loon-install)
+
+#### 手动安装
 
 {% code title="Loon Plugin" %}
 ```bash
@@ -120,7 +124,11 @@ HTTP Backend 需要通过 IP+端口 的形式访问
 
 ### Shadowrocket
 
+#### 一键安装
+
 如果你使用的是 **v2.2.8 (1658)** 及以上的版本，你可以直接: [一键安装](http://api.boxjs.app/shadowrocket-install)
+
+#### 手动安装
 
 {% tabs %}
 {% tab title="Module (推荐)" %}
