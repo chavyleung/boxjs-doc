@@ -118,7 +118,7 @@ HTTP Backend 需要通过 IP+端口 的形式访问
  ​ 配置 > 插件 > 插件
  
 # 插件地址: 
- ​ https//raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
+ ​ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin
 ```
 {% endcode %}
 
